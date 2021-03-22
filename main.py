@@ -3,9 +3,11 @@ import requests
 import time
 import json
 
-def getMovies(index):
+def getMovies(index,movieId,CurrentList):
     pass
 
-def getActors(index):
+def getActors(index,actorId,CurrentList):
     pass
+
+
 
